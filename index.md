@@ -41,3 +41,4 @@
 <a href="https://top.gg/bot/776239926684811314"><button class="button button2">탑지지(top.gg)</button></a><a href="http://blog.teb.kro.kr" target="_blank"><button class="button button1">공식 블로그</button></a><a href="https://cast.thingebot.kro.kr/WORK-TEC"><button class="button button2">텍!(ThingEbotCast)</button></a></div>
 
 [개인정보 처리방침](/bot/privacypolicy)
+<font color="white">[GG하세요!](http://thingebot.kro.kr/easteregg.html)</font>
