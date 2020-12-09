@@ -12,14 +12,6 @@
     transform: skewY(-45deg) translateX(12.5em);
   }
 }
-.wrapper {
-  display: block;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .button {
   padding: 0.75em 2em;
   text-align: center;
