@@ -1,3 +1,4 @@
+[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [띵이봇](/bot/thinge.teb)
 <style>
 .button {
   border-radius: 4px;
