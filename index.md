@@ -1,3 +1,5 @@
+[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [띵이봇](/bot/thinge.teb)
+
 # 안녕하세요! 디스코드를 더욱더 즐겁게! 저희는 띵이봇을 개발하고 있는 팀 텝입니다!
 <style>
 .button {
