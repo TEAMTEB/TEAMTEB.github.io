@@ -1,3 +1,4 @@
+[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [띵이봇](/bot/thinge.teb)
 # 띵이봇은 팀 TEB의 첫번째 봇입니다!
 ### 그리고 팀 TEB의 이름의 뜻이기도 하지요!
 
