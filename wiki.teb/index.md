@@ -52,12 +52,4 @@ background-color: green;
 background-color: black;
 }
 </style>
-<center><h1 id="-">안녕하세요! 디스코드를 즐겁게! 텝 위키 <strong>띵이위키</strong>입니다!</h1>
-<h1 id="-">문서 목록</h1>
-<h2 id="-">기본 설정</h2>
-<p><a href="https://github.com/OHvrything/thingebotV2/wiki/%EB%B4%87-%EC%B4%88%EB%8C%80"><button class="button btn1"><span>봇 초대 </span></button></a></p>
-<p><a href="https://github.com/OHvrything/thingebotV2/wiki/%EB%8F%84%EC%9B%80%EB%A7%90"><button class="button btn2"><span>도움말 </span></button></a></p>
-<h2 id="-">봇 정보</h2>
-<p><a href="https://github.com/OHvrything/thingebotV2/wiki/%EA%B4%80%EB%A0%A8-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8"><button class="button btn3"><span>웹사이트 </span></button></a></p>
-<p><a href="https://github.com/OHvrything/thingebotV2/wiki/%ED%81%AC%EB%A0%88%EB%94%A7-%7C-Credits"><button class="button btn4"><span>크레딧 </span></button></a></p>
-</center>
+<p><a href="https://wiki.teamteb.ga"><button class="button btn2"><span>도움말 </span></button></a></p>
