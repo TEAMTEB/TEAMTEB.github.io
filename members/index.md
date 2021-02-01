@@ -16,7 +16,7 @@ yswysw@mail.teamteb.ga
 yeomoon@mail.teamteb.ga
 ## Cookie
 ![Cookie](https://cdn.discordapp.com/avatars/653075791814590487/10e541608bfbb15864a8adb739717ebd.webp?size=1024)
-제로봇 개발팀&포럼 관리자
+제로봇 개발팀&연두봇 개발팀&포럼 관리자
 
 cookie@mail.teamteb.ga
 ## Ripu
