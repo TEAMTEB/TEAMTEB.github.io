@@ -27,3 +27,5 @@ ripu@mail.teamteb.ga
 ## 엠포카
 ![엠포카](https://cdn.discordapp.com/avatars/488670402118156298/74e6626ffd3546ebd2cdd238559dc133.webp?size=1024)
 쿠커 봇 개발자
+
+### 팀에 가입하고 싶으시다면 [여기를 클릭하세요!](/members/jointeam/)
