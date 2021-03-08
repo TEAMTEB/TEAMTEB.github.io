@@ -1,4 +1,4 @@
-[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [띵이봇](/bot/thinge.teb)
+[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [봇](/bots)
 
 <style>
 .button {
@@ -52,4 +52,5 @@ background-color: green;
 background-color: black;
 }
 </style>
-<p><a href="https://wiki.teamteb.ga"><button class="button btn2"><span>도움말 </span></button></a></p>
+띵이위키가...
+<p><a href="https://wiki.teamteb.ga"><button class="button btn2"><span>팀 텝 위키로 이전되었습니다</span></button></a></p>
