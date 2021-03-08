@@ -1,4 +1,4 @@
-[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [띵이봇](/bot/thinge.teb)
+[텝에 대하여](/about.teb) | [문의/연락하기](/contact.teb) | [띵이위키](/wiki.teb) | [봇](/bots)
 
 # 봇 초대하기
 
