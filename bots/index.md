@@ -57,7 +57,8 @@
 <div class="wrapper">
   <a href="http://invite.thingebot.kro.kr" class="button">봇 초대하기</a>
 </div>
-![# 베카봇 초대하기](https://raw.githubusercontent.com/TEAMTEB/teamteb.github.io/main/assets/5bb5ca7a26b8c65c.png)
+
+![베카봇 초대하기](https://raw.githubusercontent.com/TEAMTEB/teamteb.github.io/main/assets/5bb5ca7a26b8c65c.png)
 <div class="wrapper">
   <a href="https://discord.com/api/oauth2/authorize?client_id=784599716217225267&permissions=388161&scope=bot" class="button">BEKA 초대하기</a>
 </div>
